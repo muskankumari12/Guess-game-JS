@@ -1,0 +1,19 @@
+@import url('https://fonts. googleapis.com/css?family=Press +Start+2p &display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'press start 2P', sans-serif;
+  color: black;
+  background-color: pink;
+}
+.title {
+  color: red;
+}
