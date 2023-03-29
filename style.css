@@ -16,4 +16,6 @@ body {
 }
 .title {
   color: red;
+  font-weight: bold;
+  font-size: 32px;
 }
